@@ -1,0 +1,6 @@
+xarray
+geopandas
+matplotlib.pyplot
+rioxarray
+shapely.geometry
+numpy
